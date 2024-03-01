@@ -11,6 +11,10 @@
   },
   "author": "GUSTAVO J. ALEGRIA QUISPE",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GJunnior/RETOCULQI2024.git"
+  },
   "devDependencies": {
     "@types/express": "^4.17.21",
     "@types/jest": "^29.5.12",
